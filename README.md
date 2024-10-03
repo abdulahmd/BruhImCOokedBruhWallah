@@ -5,8 +5,8 @@
 Repo by Abdullah, has everything we need 
 | Libraries | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Fr | Fr |
+| Fr | Fr |
 ## Stats
 - [ ] Regionals
 - [ ] States
